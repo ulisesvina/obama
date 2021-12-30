@@ -1,0 +1,27 @@
+{
+  "name": "obama",
+  "version": "1.0.0",
+  "description": "General purpose Discord bot.",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulisesvina/obama.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ulisesvina/obama/issues"
+  },
+  "homepage": "https://github.com/ulisesvina/obama#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
+}
